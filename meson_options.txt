@@ -1,0 +1,2 @@
+option('introspection', type : 'boolean', value : true)
+option('vala', type : 'boolean', value : true)
